@@ -33,4 +33,4 @@ Review the Linux command cheat sheet.
 Practice the important commands covered in the cheat sheet.
 Understand the purpose and basic usage of each command.
 
-DONE 
+DONE 🙂
