@@ -25,3 +25,5 @@ tmpfs            465M     0  465M   0% /sys/fs/cgroup
   25378 pts/3    00:00:00 ps
 Enter you name : Ritesh
 ```
+
+The process output is saved in system-info/processes.txt.
