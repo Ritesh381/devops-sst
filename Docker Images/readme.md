@@ -1,7 +1,5 @@
 # Docker Images
 
-Name: Ritesh Prajapati
-
 Enrollment number:
 
 ## Multi-stage build
